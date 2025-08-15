@@ -141,7 +141,10 @@
   <li>Saved finalized dataset as <code>btc_fair2.csv</code> (CSV) and prepared <code>metadata.json</code>.</li>
 </ol>
 
-<b>for any code, you can check out the main Jupyter notebook in the current directory. Also I would like to mention that the Scientific Machine Learning project is also available which used this Dataset. You can check this out as well in the current directory</b>
+<b> For any code, you can check out the main Jupyter notebook in the current directory.</b>
+
+#### Algorithm Integration and Evaluation metrics and tuning
+I would like to mention that the Scientific Machine Learning project is also available, which uses this Dataset. For checking in, please simply click <a href='https://github.com/parsabe/Open-data/tree/master/BTC-OpenData-Challenge/Scientific-ML'>here</a></b>
 
 <hr />
 
