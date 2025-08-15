@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Bitcoin Daily Prices (FAIR) – Dataset and Workflow Notes</title>
-</head>
-<body>
 
 <h1>Bitcoin Daily Prices (FAIR) – Dataset and Workflow Notes</h1>
 
