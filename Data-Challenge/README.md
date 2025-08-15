@@ -164,7 +164,7 @@
 <h2>Citation</h2>
 <p>Please cite this dataset as:</p>
 <pre><code>Besharat, P. (2025). Bitcoin Daily Prices (FAIR) [Data set].
-Available at: &lt;your repository or DOI link&gt;. CC BY 4.0.
+Available at: &lt;https://github.com/parsabe/Open-data&gt;. CC BY 4.0.
 </code></pre>
 
 </body>
