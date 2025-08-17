@@ -1,4 +1,3 @@
-
 <h1>Bitcoin Daily Prices (FAIR) – Dataset and Workflow Notes</h1>
 
 <p>
